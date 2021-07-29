@@ -1,22 +1,18 @@
 export const menu = [
   {
-    title: 'Product',
+    title: 'Home',
     link: '/'
   },
   {
-    title: '123',
-    link: '/'
-  },
-  {
-    title: 'Product',
-    link: '/'
+    title: 'About',
+    link: '/about'
   },
   {
     title: 'Product',
     link: '/'
   },
   {
-    title: 'Product',
+    title: 'Contacts',
     link: '/'
   }
 ];

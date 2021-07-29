@@ -1,0 +1,20 @@
+.postWrapper {
+  margin: 0 auto;
+  max-width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .card {
+    flex-basis: 28%;
+    margin-bottom: 30px;
+    box-shadow: 0px 3px 6px rgba($color: #4b4b4b, $alpha: 0.2);
+    padding: 16px;
+    color: #222;
+
+    >h4 {
+      font-size: 20px;
+    }
+  }
+}
